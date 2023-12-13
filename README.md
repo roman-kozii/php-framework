@@ -1,9 +1,4 @@
-# ![image](https://avatars.githubusercontent.com/u/99982570?s=28&v=4) Nebula: A High-Performance PHP Framework
-
-[![Discord Community](https://discordapp.com/api/guilds/1139362100821626890/widget.png?style=shield)](https://discord.gg/RMhUmHmNak)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.0-8892BF.svg)](https://www.php.net/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PHP Composer](https://github.com/libra-php/nebula/actions/workflows/php.yml/badge.svg?branch=main)](https://github.com/libra-php/nebula/actions/workflows/php.yml)
+A High-Performance PHP Framework (CRM SaaS web app)
 
 
 ## 👾 Introduction
@@ -24,8 +19,8 @@ Follow these steps to kickstart your Nebula journey:
 
 1. **Installation**: Clone the repository and install dependencies using Composer:
    ```bash
-   git clone https://github.com/libra-php/nebula.git
-   cd nebula
+   git clone https://github.com/roman-kozii/php-framework.git
+   cd php-framework
    composer install
    ```
 
@@ -103,4 +98,4 @@ This project is licensed under the [MIT License](https://github.com/libra-php/ne
 
 ## 🌠 Acknowledgements
 
-Nebula draws inspiration from leading open-source projects including Symfony, Slim Framework, and Laravel.
+It draws inspiration from leading open-source projects including Symfony, Slim Framework, and Laravel.
